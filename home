@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SPITWIT WORLD GATE 2025</title>
+  <style>
+    body {
+      background-color: skyblue;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      color: white;
+      font-size: 2rem;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    }
+  </style>
+</head>
+<body>
+  SPITWIT WORLD GATE 2025
+</body>
+</html>
